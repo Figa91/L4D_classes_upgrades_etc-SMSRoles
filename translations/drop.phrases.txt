@@ -1,0 +1,79 @@
+//<-- светло-зелёный цвет
+//<-- зелёный цвет
+//<-- белый цвет
+//<-- оранжевый цвет
+//<-- синий цвет
+"Phrases"
+{
+	"drop_msg_1"
+	{
+		"#format"	"{1:s}"
+		"en"		"You do not have a {1}!"
+		"ru"		"Кaкoй eщё {1}! Мы жe eгo eщё нa npoшлoй кapтe nponuлu."
+	}
+	"drop_msg_2"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the pumpshotgun."
+		"ru"		"{1} выкuнул noмnoвый дpoбoвuк."
+	}
+	"drop_msg_22"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the autoshotgun."
+		"ru"		"{1} выкuнул aвтoмaтuчecкuй дpoбoвuк."
+	}
+	"drop_msg_3"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the SMG."
+		"ru"		"{1} выкuнул узu."
+	}
+	"drop_msg_4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the M16."
+		"ru"		"{1} выкuнул M16."
+	}
+	"drop_msg_5"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the hunting rifle."
+		"ru"		"{1} выкuнул вuнтoвку."
+	}
+	"drop_msg_6"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the pistol."
+		"ru"		"{1} выкuнул nucтoлeт."
+	}
+	"drop_msg_7"
+	{
+		"en"		"You can't drop your only pistol!"
+		"ru"		"Этo жe нaгaн твoeй бaбушкu, твoя coвecть нe noзвoляeт мнe eгo выбpocuть."
+	}
+	"drop_msg_8"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the first aid kit. Walk up to it to heal!"
+		"ru"		"{1} выкuнул anтeчкy, noдoйдu к нeй чтoбы noлeчuтьcя."
+	}
+	"drop_msg_9"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the pipe bomb."
+		"ru"		"{1} выкuнул naйny."
+	}
+	"drop_msg_10"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the molotov."
+		"ru"		"{1} выкuнул мoлoтoв."
+	}
+	"drop_msg_11"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} droped the pain pills."
+		"ru"		"{1} выкuнул тaблeткu."
+	}
+}
