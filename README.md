@@ -1,3 +1,2 @@
 # SMSRoles
-Plugins united by new global forward #CreateGlobalForward Function.
-We create classes with different perks and abilities.
+Plugins united by new global forward #CreateGlobalForward Function. Created classes with different perks and abilities.
