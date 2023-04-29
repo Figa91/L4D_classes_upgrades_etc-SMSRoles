@@ -1,0 +1,107 @@
+"Phrases"
+{
+	"build_success"
+	{
+		"en"			"Build jet pack successfully"
+		"es"			"Jetpack construido!"
+		"ru"			"Реактивный ранец построен!"
+	}
+	"build_progress"
+	{
+		"#format"		"{1:d}"
+		"en"			"build progress {1}"
+		"es"			"construir el progreso {1}"
+		"ru"			"Посатижи, изолента. Ещё немного {1}..."
+	}
+	"fuel_success"
+	{
+		"en"			"Fuel jet pack successfully."
+		"es"			"Jetpack alimentado."
+		"ru"			"Реактивный ранец заправлен."
+	}
+	"fuel_progress"
+	{
+		"#format"		"{1:d}"
+		"en"			"fuel progress {1}%"
+		"es"			"gasolinera {1}%"
+		"ru"			"Заправка {1}%"
+	}
+	"jetpack_before"
+	{
+		"en"			"You have used jetpack before."
+		"es"			"Ha utilizado jetpack antes."
+		"ru"			"Вы использовали джетпак ранее."
+	}
+	"already_jetpack"
+	{
+		"en"			"Your already have a jet pack."
+		"es"			"Ya tiene un jetpack"
+		"ru"			"У вас уже есть реактивный ранец."
+	}
+	"jetpack_dropped"
+	{
+		"en"			"A jet pack was dropped."
+		"es"			"Jetpack fue filmado."
+		"ru"			"Реактивный ранец был снят."
+	}
+	"jetpack_dressed"
+	{
+		"en"			"Jet pack dressed."
+		"es"			"Jet pack vestido."
+		"ru"			"Джетпак одет."
+	}
+	"space_hold"
+	{
+		"en"			"Hold Space to fly."
+		"es"			"Mantener el espacio para volar."
+		"ru"			"Удерживай Пробел, чтобы взлететь."
+	}
+	"short_fuel"
+	{
+		"en"			"You jet pack is short of fuel, please look for oxygentank,propanetank or gascan."
+		"es"			"Usted jet pack es corto de combustible, por favor busque tanque de oxígeno, el tanque de propano o gascan."
+		"ru"			"Джетпаку не хватает топлива, найди болон или канистру."
+	}
+	"jetpack_broke"
+	{
+		"en"			"Your jet pack was broke."
+		"es"			"Su jetpack estaba en la ruina."
+		"ru"			"Ваш джетпак сломался."
+	}
+	"fuel_left"
+	{
+		"en"			"fuel left"
+		"es"			"izquierda combustible"
+		"ru"			"топлива осталось"
+	}
+	"control_jetpack"
+	{
+		"en"			"Control jet pack - Ctrl, Space, Shift и E."
+		"es"			"Control jet pack - Ctrl, Space, Shift и E."
+		"ru"			"Управление ранцем - Ctrl, Space, Shift и E."
+	}
+	"hold_space"
+	{
+		"en"			"Hold Space to fly."
+		"es"			"Sostenga la barra espaciadora para volar."
+		"ru"			"Удерживай Пробел, чтобы взлететь."
+	}
+	"FuelTitle"
+	{
+		"en"			"Do you want to fuel your jet pack?"
+		"es"			"¿Quieres alimentar su jet pack?"
+		"ru"			"Заправить Джетпак?"
+	}
+	"BuildTitle"
+	{
+		"en"			"Do you want to build a jet pack?"
+		"es"			"¿Quieres construir un jet pack?"
+		"ru"			"Собрать Джетпак?"
+	}
+	"DropTitle"
+	{
+		"en"			"Drop jet pack?"
+		"es"			"Caiga jetpack?"
+		"ru"			"Снять Джетпак?"
+	}
+}
