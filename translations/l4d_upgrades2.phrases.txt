@@ -1,0 +1,952 @@
+//<-- светло-зелёный цвет
+//<-- зелёный цвет
+//<-- белый цвет
+//<-- оранжевый цвет
+"Phrases"
+{
+	"ConnectPlayer"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{1} connected from {2} ({3})"
+		"es"			"{1} conectado desde {2} ({3})"
+		"ru"			"{1} из {2} ({3}) в игре."
+	}
+	"NetworkCountry"
+	{
+		"en"			"Garena"
+		"es"			"Garena"
+		"ru"			"Garena"
+	}
+	"NetworkCity"
+	{
+		"en"			"LAN"
+		"es"			"LAN"
+		"ru"			"LAN"
+	}
+	"BoomerNeut"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} neutralized the Boomer's Vomit attack!"
+		"es"			"{1} neutralizado ataque Vomit del Boomer!"
+		"ru"			"Плащ защитил {1} от рвоты Толстика."
+	}
+	"TongueNeut"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} neutralized the Smoker's Tongue attack!"
+		"es"			"{1} neutralizado ataque la Lengua del Fumador!"
+		"ru"			"Ловкость помогла {1} увернуться от языка курильщика."
+	}
+	"Chalk"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} used Climbing Chalk!"
+		"es"			"{1} usado Chalk Escalada!"
+		"ru"			"{1} использовал Мел, чтобы забраться."
+	}
+	"Wind"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} used Second Wind!"
+		"es"			"{1} usado Second Wind!"
+		"ru"			"{1} использовал Второе Дыхание."
+	}
+	"Knife"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} used a Knife!"
+		"es"			"{1} utilizado un cuchillo!"
+		"ru"			"{1} использовал Нож."
+	}
+	"ExtraPain"
+	{
+		"en"			"You picked up an Extra Pain Pills."
+		"es"			"Has recogido un extra Pastillas para el dolor."
+		"ru"			"Вы взяли дополнительное обезболивающее."
+	}
+	"ExtraFAK"
+	{
+		"en"			"You picked up an Extra First Aid Kit."
+		"es"			"Has recogido un botiquín de primeros auxilios Extra."
+		"ru"			"Вы взяли дополнительную аптечку."
+	}
+	"LostAll"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} lost all upgrades."
+		"es"			"{1} perdido todas las actualizaciones."
+		"ru"			"{1} потерял все апгрейды."
+	}
+	"LaserOn"
+	{
+		"en"			"Laser Sight is On."
+		"es"			"Mira láser es On."
+		"ru"			"Лазерный прицел включен."
+	}
+	"LaserOff"
+	{
+		"en"			"Laser Sight is Off."
+		"es"			"Mira láser es Off."
+		"ru"			"Лазерный прицел выключен."
+	}
+	"LaserDisabled"
+	{
+		"en"			"Laser Sight is Disabled. Please Enable Laser Sight before using the command."
+		"es"			"Mira láser es Desactivado. Habilite mira láser antes de utilizar el comando."
+		"ru"			"Апгрейд Лазер отключен. Включите лазерный прицел, прежде чем использовать команду."
+	}
+	"SurvTeam"
+	{
+		"en"			"You must be on the Survivor Team."
+		"es"			"Usted debe estar en el Team Survivor."
+		"ru"			"Вы должны быть в команде Выживших."
+	}
+	"SilencerOn"
+	{
+		"en"			"Silencer is On."
+		"es"			"Silenciador está En"
+		"ru"			"Глушитель надет."
+	}
+	"SilencerOff"
+	{
+		"en"			"Silencer is Off."
+		"es"			"Silenciador está apagado."
+		"ru"			"Глушитель снят."
+	}
+	"SilencerDisabled"
+	{
+		"en"			"Upgrade: Silencer is Disabled."
+		"es"			"Upgrade: Silenciador es Desactivado."
+		"ru"			"Апгрейд: Глушитель отключен."
+	}
+	"NightVisionOn"
+	{
+		"en"			"Night vision On."
+		"es"			"Visión nocturna En."
+		"ru"			"Ночное виденье включено."
+	}
+	"NightVisionOff"
+	{
+		"en"			"Night vision Off."
+		"es"			"Visión nocturna fuera."
+		"ru"			"Ночное виденье отключено."
+	}
+	"NightVisionDisabled"
+	{
+		"en"			"Upgrade: Night vision Off."
+		"es"			"Upgrade: Visión nocturna fuera."
+		"ru"			"Апгрейд: Ночное Виденье отключен."
+	}
+	"tSelectTitle"
+	{
+		"en"			"Select Class:"
+		"ru"			"Выберите Класс:"
+		"es"			"Seleccione Clase:"
+	}
+	"tListTitle"
+	{
+		"en"			"List Classes:"
+		"ru"			"Список Классов:"
+		"es"			"Clases de lista:"
+	}
+	"tMedic"
+	{
+		"en"			"Medic"
+		"ru"			"Медик"
+		"es"			"Médico"
+	}
+	"uMedic"
+	{
+		"#format"		"{1:d}"
+		"en"			"Medic ({1}) ☜ You"
+		"ru"			"Медик ({1}) ☜ Вы"
+		"es"			"Médico ({1}) ☜ Usted"
+	}
+	"tMedicS"
+	{
+		"en"			"Identify Medics:"
+		"ru"			"Найти Медиков:"
+		"es"			"Identificar Médico:"
+	}
+	"uMedicS"
+	{
+		"#format"		"{1:d}"
+		"en"			"Identify Medics: ({1}) ☜ You"
+		"ru"			"Найти Медиков: ({1}) ☜ Вы"
+		"es"			"Identificar Médico: ({1}) ☜ Usted"
+	}
+	"tAssault"
+	{
+		"en"			"Assault"
+		"ru"			"Штурмовик"
+		"es"			"Asalto"
+	}
+	"uAssault"
+	{
+		"#format"		"{1:d}"
+		"en"			"Assault ({1}) ☜ You"
+		"ru"			"Штурмовик ({1}) ☜ Вы"
+		"es"			"Asalto ({1}) ☜ Usted"
+	}
+	"tAssaultS"
+	{
+		"en"			"Identify Assaults:"
+		"ru"			"Найти Штурмовиков:"
+		"es"			"Identificar Asalto:"
+	}
+	"uAssaultS"
+	{
+		"#format"		"{1:d}"
+		"en"			"Identify Assaults: ({1}) ☜ You"
+		"ru"			"Найти Штурмовиков: ({1}) ☜ Вы"
+		"es"			"Identificar Asalto: ({1}) ☜ Usted"
+	}
+	"tEngineer"
+	{
+		"en"			"Engineer"
+		"ru"			"Инженер"
+		"es"			"Ingeniero"
+	}
+	"uEngineer"
+	{
+		"#format"		"{1:d}"
+		"en"			"Engineer ({1}) ☜ You"
+		"ru"			"Инженер ({1}) ☜ Вы"
+		"es"			"Ingeniero ({1}) ☜ Usted"
+	}
+	"tEngineerS"
+	{
+		"en"			"Identify Engineers:"
+		"ru"			"Найти Инженеров:"
+		"es"			"Identificar Ingeniero:"
+	}
+	"uEngineerS"
+	{
+		"#format"		"{1:d}"
+		"en"			"Identify Engineers: ({1}) ☜ You"
+		"ru"			"Найти Инженеров: ({1}) ☜ Вы"
+		"es"			"Identificar Ingeniero: ({1}) ☜ Usted"
+	}
+	"tRecon"
+	{
+		"en"			"Sniper"
+		"ru"			"Снайпер"
+		"es"			"Francotirador"
+	}
+	"uRecon"
+	{
+		"#format"		"{1:d}"
+		"en"			"Sniper ({1}) ☜ You"
+		"ru"			"Снайпер ({1}) ☜ Вы"
+		"es"			"Francotirador ({1}) ☜ Usted"
+	}
+	"tReconS"
+	{
+		"en"			"Identify Snipers:"
+		"ru"			"Найти Снайперов:"
+		"es"			"Identificar Francotiradores:"
+	}
+	"uReconS"
+	{
+		"#format"		"{1:d}"
+		"en"			"Identify Snipers: ({1}) ☜ You"
+		"ru"			"Найти Снайперов: ({1}) ☜ Вы"
+		"es"			"Identificar Francotiradores: ({1}) ☜ Usted"
+	}
+	"tSupport"
+	{
+		"en"			"Support"
+		"ru"			"Поддержка"
+		"es"			"Soporta"
+	}
+	"uSupport"
+	{
+		"#format"		"{1:d}"
+		"en"			"Support ({1}) ☜ You"
+		"ru"			"Поддержка ({1}) ☜ Вы"
+		"es"			"Soporta ({1}) ☜ Usted"
+	}
+	"tSupportS"
+	{
+		"en"			"Identify Supports:"
+		"ru"			"Найти Поддержку:"
+		"es"			"Identificar Soporta:"
+	}
+	"uSupportS"
+	{
+		"#format"		"{1:d}"
+		"en"			"Identify Supports: ({1}) ☜ You"
+		"ru"			"Найти Поддержку: ({1}) ☜ Вы"
+		"es"			"Identificar Soporta: ({1}) ☜ Usted"
+	}
+	"tScientist"
+	{
+		"en"			"Scientist"
+		"ru"			"Учёный"
+		"es"			"Científico"
+	}
+	"uScientist"
+	{
+		"#format"		"{1:d}"
+		"en"			"Scientist ({1}) ☜ You"
+		"ru"			"Учёный ({1}) ☜ Вы"
+		"es"			"Científico ({1}) ☜ Usted"
+	}
+	"tScientistS"
+	{
+		"en"			"Identify Scientists:"
+		"ru"			"Найти Учёных:"
+		"es"			"Identificar Científicos:"
+	}
+	"uScientistS"
+	{
+		"#format"		"{1:d}"
+		"en"			"Identify Scientists: ({1}) ☜ You"
+		"ru"			"Найти Учёных: ({1}) ☜ Вы"
+		"es"			"Identificar Científicos: ({1}) ☜ Usted"
+	}
+	"tNothing"
+	{
+		"en"			"May change:"
+		"ru"			"Могут сменить:"
+		"es"			"Puede cambiar:"
+	}
+	"uNothing"
+	{
+		"#format"		"{1:d}"
+		"en"			"Сhange class: ({1}) ☜ You"
+		"ru"			"Сменить класс: ({1}) ☜ Вы"
+		"es"			"Cambio de Clase: ({1}) ☜ Usted"
+	}
+	"ConfirmMedicTitle"
+	{
+		"en"			"Select a Medic?"
+		"ru"			"Выбрать Медика?"
+		"es"			"Elige un Médico?"
+	}
+	"ConfirmAssaultTitle"
+	{
+		"en"			"Select a Assault?"
+		"ru"			"Выбрать Штурмовика?"
+		"es"			"Elige un Asalto?"
+	}
+	"ConfirmEngineerTitle"
+	{
+		"en"			"Select a Engineer?"
+		"ru"			"Выбрать Инженера?"
+		"es"			"Elige un Ingeniero?"
+	}
+	"ConfirmReconTitle"
+	{
+		"en"			"Select a Recon?"
+		"ru"			"Выбрать Снайпера?"
+		"es"			"Elige un Francotirador?"
+	}
+	"ConfirmSupportTitle"
+	{
+		"en"			"Select a Support?"
+		"ru"			"Выбрать Поддержку?"
+		"es"			"Elige un Soporta?"
+	}
+	"ConfirmScientistTitle"
+	{
+		"en"			"Select a Scientist?"
+		"ru"			"Выбрать Учёного?"
+		"es"			"Elige un Científico?"
+	}
+	"ConfirmStartTPTitle"
+	{
+		"en"			"Place teleport?"
+		"ru"			"Разместить телепорт?"
+		"es"			"Coloque teletransporte?"
+	}
+	"ConfirmRunTPTitle"
+	{
+		"en"			"Menu Teleport"
+		"ru"			"Меню Телепорта"
+		"es"			"Menú Teletransporte"
+	}
+	"medics"
+	{
+		"en"			"Medics: "
+		"ru"			"Медики: "
+		"es"			"Médicos: "
+	}
+	"assaults"
+	{
+		"en"			"Assaults: "
+		"ru"			"Штурмовики: "
+		"es"			"Asaltos: "
+	}
+	"engineers"
+	{
+		"en"			"Engineers: "
+		"ru"			"Инженеры: "
+		"es"			"Ingenieros: "
+	}
+	"recons"
+	{
+		"en"			"Recons: "
+		"ru"			"Снайперы: "
+		"es"			"Francotiradors: "
+	}
+	"supports"
+	{
+		"en"			"Supports: "
+		"ru"			"Поддержка: "
+		"es"			"Soporta: "
+	}
+	"scientist"
+	{
+		"en"			"Scientists: "
+		"ru"			"Учёные: "
+		"es"			"Científicos: "
+	}
+	"noclasses"
+	{
+		"en"			"Can change the class: "
+		"ru"			"Могут сменить класс: "
+		"es"			"Puede cambiar la clase:"
+	}
+	"cMedic"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} selected class Medic."
+		"ru"			"{1} выбрал класс Медик."
+		"es"			"{1} eligió el Médico."
+	}
+	"cAssault"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} selected class Assault."
+		"ru"			"{1} выбрал класс Штурмовик."
+		"es"			"{1} eligió el Asalto."
+	}
+	"cEngineer"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} selected class Engineer."
+		"ru"			"{1} выбрал класс Инженер."
+		"es"			"{1} eligió el Ingeniero."
+	}
+	"cRecon"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} selected class Sniper."
+		"ru"			"{1} выбрал класс Снайпер."
+		"es"			"{1} eligió el Francotirador."
+	}
+	"cSupport"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} selected class Support."
+		"ru"			"{1} выбрал класс Поддержка."
+		"es"			"{1} eligió el Soporta."
+	}
+	"cScientist"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} selected class Scientist."
+		"ru"			"{1} выбрал класс Учёный."
+		"es"			"{1} eligió el Científico."
+	}
+	"Votekick"
+	{
+		"en"			"Vote Kick"
+		"es"			"Tiro Voto"
+		"ru"			"Кикнуть игрока"
+	}
+	"Character_select"
+	{
+		"en"			"Character Select"
+		"es"			"Carácter seleccione"
+		"ru"			"Выбор персонажа"
+	}
+	"Kill"
+	{
+		"en"			"Suicide"
+		"es"			"Suicidio"
+		"ru"			"Самоубийство"
+	}
+	"Laser"
+	{
+		"en"			"Laser"
+		"es"			"Láser"
+		"ru"			"Лазер"
+	}
+	"Silent"
+	{
+		"en"			"Silencer"
+		"es"			"Silenciador"
+		"ru"			"Глушитель"
+	}
+	"Night"
+	{
+		"en"			"Night Vision"
+		"es"			"Visión nocturna"
+		"ru"			"Ночное виденье"
+	}
+	"Ammo"
+	{
+		"en"			"Spawn Ammo"
+		"es"			"Dar munición"
+		"ru"			"Дать патроны"
+	}
+	"Jetpack"
+	{
+		"en"			"Jetpack"
+		"es"			"Jetpack"
+		"ru"			"Джетпак"
+	}
+	"Minigun"
+	{
+		"en"			"Give Minigun"
+		"es"			"Dé Minigun"
+		"ru"			"Миниган"
+	}
+	"Teleport"
+	{
+		"en"			"Teleport"
+		"es"			"Teleport"
+		"ru"			"Телепорт"
+	}
+	"GravityField"
+	{
+		"en"			"Gravity field"
+		"es"			"Campo de gravedad"
+		"ru"			"Гравитац-ое поле"
+	}
+	"PowerField"
+	{
+		"en"			"Power field"
+		"es"			"Campo de fuerza"
+		"ru"			"Силовое поле"
+	}
+	"HealingField"
+	{
+		"en"			"Healing field"
+		"es"			"Campo de la sanación"
+		"ru"			"Исцеляющее поле"
+	}
+	"AcceleratField"
+	{
+		"en"			"Accelerating field."
+		"es"			"Campo de aceleración"
+		"ru"			"Ускоряющее поле"
+	}
+	"SlowingField"
+	{
+		"en"			"Slowing field."
+		"es"			"Campo retardando"
+		"ru"			"Замедляющее поле"
+	}
+	"Campaign"
+	{
+		"en"			"Change Campaign"
+		"es"			"Cambio campaña"
+		"ru"			"Сменить кампанию"
+	}
+	"Stats"
+	{
+		"en"			"Statistics"
+		"es"			"Estadística"
+		"ru"			"Статистика"
+	}
+	"Servers"
+	{
+		"en"			"Servers SMS"
+		"es"			"Servers SMS"
+		"ru"			"Сервера SMS"
+	}
+	"DropKit"
+	{
+		"en"			"Drop first aid kit"
+		"es"			"Suelta el botiquín"
+		"ru"			"Бросить аптечку"
+	}
+	"Difficulty"
+	{
+		"en"			"Change the difficulty"
+		"es"			"Cambiar la dificultad"
+		"ru"			"Изменить сложность"
+	}
+	"ClassTitleMedic"
+	{
+		"en"			"Medic Menu"
+		"es"			"Menú Medic"
+		"ru"			"Меню Медика"
+	}
+	"ClassTitleAssault"
+	{
+		"en"			"Assault Menu"
+		"es"			"Menú Asalto"
+		"ru"			"Меню Штурмовика"
+	}
+	"ClassTitleEngineer"
+	{
+		"en"			"Engineer Menu"
+		"es"			"Menú Ingeniero"
+		"ru"			"Меню Инженера"
+	}
+	"ClassTitleRecon"
+	{
+		"en"			"Sniper Menu"
+		"es"			"Menú Francotirador"
+		"ru"			"Меню Снайпера"
+	}
+	"ClassTitleSupport"
+	{
+		"en"			"Support Menu"
+		"es"			"Menú Soporta"
+		"ru"			"Меню Поддержки"
+	}
+	"ClassTitleScientist"
+	{
+		"en"			"Scientist Menu"
+		"es"			"Menú Scientist"
+		"ru"			"Меню Учёного"
+	}
+	"ScillsTitleScientist"
+	{
+		"en"			"Scientist Skills"
+		"es"			"Menú Habilidades"
+		"ru"			"Меню Умений"
+	}
+	"ClassTitle"
+	{
+		"en"			"Player Menu"
+		"es"			"Menú del reproductor"
+		"ru"			"Меню игрока"
+	}
+	"aboutMedic"
+	{
+		"en"			"Medic - has a first aid kit, morphine. Choose a first aid kit and press LKM or F3, to put it for healing team."
+		"es"			"Médico - tiene un kit de primeros auxilios, la morfina. Elegir un botiquín de primeros auxilios y pulse LKM o F3, para decirlo de equipo de curación."
+		"ru"			"Медик - перенос аптек, морфин. Выберите аптечку и нажмите LKM или F3, чтобы выложить её для лечения."
+	}
+	"aboutAssault"
+	{
+		"en"			"Assault - parachute (hold space), the transfer of ammunition, ammunition increased total agility."
+		"es"			"Asalto - parachute (hold space), la transferencia de munición, munición aumentaron agilidad total."
+		"ru"			"Штурмовик - парашют (удерживай пробел), перенос патронов, повышенный боекомплект, общая ловкость."
+	}
+	"aboutEngineer"
+	{
+		"en"			"Engineer - advanced magazine, silencer(!silent), laser(!laser), enhanced explosives jetpack(!jetpack)."
+		"es"			"Ingeniero - advanced revista, el silenciador(!silent), el láser(!laser), el aumento de explosivos jetpack(!jetpack)."
+		"ru"			"Инженер - расширенный магазин, глушитель(!silent), лазер(!laser), усиленная взрывчатка, джетпак(!jetpack)."
+	}
+	"aboutRecon"
+	{
+		"en"			"Sniper - cloak, knife, sniper scope on the entire weapon, farm."
+		"es"			"Sniper - manto, cuchillo, mira telescópica sobre todo el arma, granja."
+		"ru"			"Снайпер - плащ, нож, снайперский прицел на всём оружии, фарм."
+	}
+	"aboutSupport"
+	{
+		"en"			"Soporta Armor and minigun, use !mg or F4 ► 5, to expand minigun. Shift + RKM - take minigun."
+		"es"			"Soporte Armadura y minigun, uso !mg o F4 ► 5, ampliar minigun. Shift + RKM - take minigun."
+		"ru"			"Пoддepжкa - бpoнeжeлeт u nyлeмёт. Иcnoльзyй !mg uлu F4 ► 5, чтoбы paзвepнyть nyлeмёт. Shift + RKM - зaбpaть мuнuгaн."
+	}
+	"aboutScientist"
+	{
+		"en"			"It has 4 unique field. To activate, go to the Scientist menu (!menu -> 5) Skills or !sci). Activation of the field of health spending 5HP."
+		"es"			"Tiene 4 campo único. Para activarlo, vaya al menú Científico (!menu -> 5) Habilidades o !sci). La activación del ámbito del gasto en salud 5HP."
+		"ru"			"Имеет 4 уникальных поля. Для активации, откройте меню Учёного (!menu -> 5)Умения или !sci)."
+	}
+	"onlyMedic"
+	{
+		"en"			"Only Medic can take a first aid kit."
+		"es"			"Sólo Medic puede tener un botiquín de primeros auxilios."
+		"ru"			"Только Медик может взять аптечку."
+	}
+	"onlyMedic2"
+	{
+		"en"			"Press E  or stand on first aid kit to regain health."
+		"es"			"Press  E o pararse sobre botiquín de primeros auxilios para recuperar la salud."
+		"ru"			"Нажмите E uлu вcтaнь нa anтeчкy, для вoccтaнoвлeнuя здopoвья."
+	}
+	"onlyRecon"
+	{
+		"en"			"Only Sniper can take a hunting rifle."
+		"es"			"Sólo Sniper puede tomar un rifle de caza."
+		"ru"			"Только Снайпер может взять винтовку."
+	}
+	"YouDead"
+	{
+		"en"			"You are dead, now you know: Nothing."
+		"es"			"Estás muerto, ya lo sabes: Nada."
+		"ru"			"Вы умерли, теперь вы умеете: Ничего."
+	}
+	"youMedic"
+	{
+		"en"			"Your class: Medic"
+		"es"			"Su clase: Médico"
+		"ru"			"Ваш класс: Медик"
+	}
+	"youAssault"
+	{
+		"en"			"Your class: Assault"
+		"es"			"Su clase: Asalto"
+		"ru"			"Ваш класс: Штурмовик"
+	}
+	"youEngineer"
+	{
+		"en"			"Your class: Engineer"
+		"es"			"Su clase: Ingeniero"
+		"ru"			"Ваш класс: Инженер"
+	}
+	"youRecon"
+	{
+		"en"			"Your class: Sniper"
+		"es"			"Su clase: Francotirador"
+		"ru"			"Ваш класс: Снайпер"
+	}
+	"youSupport"
+	{
+		"en"			"Your class: Support"
+		"es"			"Su clase: Soporta"
+		"ru"			"Ваш класс: Поддержка"
+	}
+	"youScientist"
+	{
+		"en"			"Your class: Scientist"
+		"es"			"Su clase: Científico"
+		"ru"			"Ваш класс: Учёный"
+	}
+	"youNothing"
+	{
+		"en"			"You have not selected a class or were killed. To select the class write in the chat: !class"
+		"es"			"No ha seleccionado una clase o perdieron la vida. Para seleccionar la clase de escritura en el chat: !class"
+		"ru"			"Вы ещё не выбрали класс. Чтобы выбрать класс напиши в чат: !class"
+	}
+	"youAlready"
+	{
+		"en"			"You already have class! Change the class is only possible after the start of the round or death."
+		"es"			"Ya tiene clase! Cambiar la clase sólo es posible después del inicio de la ronda o la muerte."
+		"ru"			"Вы уже выбрали класс! Сменить класс возможно только после старта раунда или смерти."
+	}
+	"youDeath"
+	{
+		"en"			"You are dead! Wait when you rescue to select the class."
+		"es"			"Estás muerto! Espere cuando rescatas para seleccionar la clase."
+		"ru"			"Вы мертвы! Подождите когда вас спасут, чтобы выбрать класс."
+	}
+	"AmmoAnnonce"
+	{
+		"en"			"Assaults available 2 cans ammo, use !ammoor F4 ► 5, to drop ammo."
+		"es"			"Asaltos disponibles 2 latas de munición, usar !ammo o F4 ► 5, para caer munición."
+		"ru"			"Штypмoвuкaм дocтynны 2 бaнкu naтpoнoв, ucnoльзyй !ammo uлu F4 ► 5, чтoбы noдeлuтьcя naтpoнaмu."
+	}
+	"JetPackAnnonce"
+	{
+		"en"			"Engineer available jetpack, use !jetpack or F4 ► 5, to put it on."
+		"es"			"Ingeniero disponibles jetpack, usar !jetpack o F4 ► 5, que lo usen."
+		"ru"			"Инженеру доступен джетпак, используй !jetpack или F4 ► 5, чтобы надеть его."
+	}
+	"only_engineers"
+	{
+		"en"			"Available only Engineers."
+		"es"			"sólo Ingenieros disponibles."
+		"ru"			"Доступно только Инженру."
+	}
+	"only_scientists"
+	{
+		"en"			"Available only Scientist."
+		"es"			"Disponible único Científico."
+		"ru"			"Доступно только Учёному."
+	}
+	"cl_You"
+	{
+		"en"			"You"
+		"es"			"Usted"
+		"ru"			"Вы"
+	}
+	"m_Refresh"
+	{
+		"en"			"Refresh ↻"
+		"es"			"Refrescar ↻"
+		"ru"			"Обновить ↻"
+	}
+	"MedDropKit"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} droped the first aid kit. Walk up to it to heal!"
+		"ru"			"{1} выкuнул anтeчкy, noдoйдu к нeй чтoбы noлeчuтьcя."
+	}
+	"MedicTranquilizer"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} slowed {2} from tranquilizer gun."
+		"es"			"{1} redujo la marcha del {2} del arma del tranquilizante."
+		"ru"			"{1} замедлил {2} из транквилизаторной винтовки."
+	}
+	"Votemute"
+	{
+		"en"			"Vote mute"
+		"es"			"Vote mute"
+		"ru"			"Заглушить игрока"
+	}
+	"JoinInGame"
+	{
+		"en"			"To join the game write in chat: !join"
+		"es"			"Para iniciar el juego de escritura en el chat: !join"
+		"ru"			"Чтобы вступить в игру напиши в чат: !join"
+	}
+	"Rates"
+	{
+		"en"			"Change lerp"
+		"es"			"Change lerp"
+		"ru"			"Настроить лерп"
+	}
+	"LERP_0"
+	{
+		"en"			"Lerp 0"
+		"es"			"Lerp 0"
+		"ru"			"Лерп 0"
+	}
+	"LERP_10"
+	{
+		"en"			"Lerp 10"
+		"es"			"Lerp 10"
+		"ru"			"Лерп 10"
+	}
+	"LERP_20"
+	{
+		"en"			"Lerp 20"
+		"es"			"Lerp 20"
+		"ru"			"Лерп 20"
+	}
+	"LERP_30"
+	{
+		"en"			"Lerp 30"
+		"es"			"Lerp 30"
+		"ru"			"Лерп 30"
+	}
+	"LERP_40"
+	{
+		"en"			"Lerp 40"
+		"es"			"Lerp 40"
+		"ru"			"Лерп 40"
+	}
+	"LERP_50"
+	{
+		"en"			"Lerp 50"
+		"es"			"Lerp 50"
+		"ru"			"Лерп 50"
+	}
+	"LERP_60"
+	{
+		"en"			"Lerp 60"
+		"es"			"Lerp 60"
+		"ru"			"Лерп 60"
+	}
+	"LERP_70"
+	{
+		"en"			"Lerp 70"
+		"es"			"Lerp 70"
+		"ru"			"Лерп 70"
+	}
+	"LERP_80"
+	{
+		"en"			"Lerp 80"
+		"es"			"Lerp 80"
+		"ru"			"Лерп 80"
+	}
+	"LERP_90"
+	{
+		"en"			"Lerp 90"
+		"es"			"Lerp 90"
+		"ru"			"Лерп 90"
+	}
+	"LERP_100"
+	{
+		"en"			"Lerp 100"
+		"es"			"Lerp 100"
+		"ru"			"Лерп 100"
+	}
+	"hp"
+	{
+		"en"			"hp"
+		"es"			"hp"
+		"ru"			"хп"
+	}
+	"bw"
+	{
+		"en"			"BW"
+		"es"			"BW"
+		"ru"			"ЧБ"
+	}
+	"temp"
+	{
+		"en"			"temp"
+		"es"			"temp"
+		"ru"			"врем"
+	}
+	"incapped"
+	{
+		"en"			"incapped"
+		"es"			"incapped"
+		"ru"			"упал"
+	}
+	"Displayer"
+	{
+		"en"			"Medic Health Displayer"
+		"es"			"Medic Healtn Displaer"
+		"ru"			"Дисплей здоровья Медика"
+	}
+	"player_help"
+	{
+		"en"			"player needs help"
+		"es"			"el jugador necesita ayuda"
+		"ru"			"игрок нуждается в помощи"
+	}
+	"player_bw"
+	{
+		"en"			"the player BW"
+		"es"			"el jugador BW"
+		"ru"			"у игрока ЧБ"
+	}
+	"wait_tp_close"
+	{
+		"en"			"Waiting closing teleport."
+		"es"			"Esperando teletransporte cierre."
+		"ru"			"Ожидание закрытия телепорта."
+	}
+	"wait_pills"
+	{
+		"ru"			"Таймаут использования таблеток 5 мин."
+		"en"			"Timeout use pills 5 min."
+		"es"			"Pastillas de uso de tiempo de espera 5 min."
+	}
+	"timeout_field"
+	{
+		"ru"			"Таймаут использования поля 30 сек."
+		"en"			"Timeout Use the field for 30 seconds."
+		"es"			"Utilice el campo Tiempo de espera de 30 segundos."
+	}
+	"Skills"
+	{
+		"ru"			"Умения"
+		"en"			"Skills"
+		"es"			"Habilidades"
+	}
+	"ButtBack"
+	{
+		"ru"			"Назад"
+		"en"			"Back"
+		"es"			"espalda"
+	}
+	"SpawnNew"
+	{
+		"ru"			"Разместить новый"
+		"en"			"Spawn new"
+		"es"			"La freza nueva"
+	}
+	"OpenTP"
+	{
+		"ru"			"Открыть телепорт"
+		"en"			"Open teleport"
+		"es"			"Teletransporte abierto"
+	}
+}
