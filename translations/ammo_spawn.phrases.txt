@@ -1,0 +1,35 @@
+//<-- светло-зелёный цвет
+//<-- зелёный цвет
+//<-- белый цвет
+//<-- оранжевый цвет
+//<-- синий цвет
+"Phrases"
+{
+	"OnlyAssault"
+	{
+		"en"		"Available only Assault"
+		"es"		"Disponible sólo Asalto"
+		"ru"		"Доступно только Штурмовику."
+	}
+	"AmmoUsed"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Empty: Pick up earlier laid ammo. Used: ({1}/{2})."
+		"es"		"Vacía: Recoger munición establecido anteriormente. Usado: ({1}/{2})."
+		"ru"		"Пусто: Подберите ранее выложенные патроны. Использовано: ({1}/{2})."
+	}
+	"LastAmmo"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} shared the last ammo."
+		"es"		"{1} compartió la última munición."
+		"ru"		"{1} поделился последней банкой c патронами."
+	}
+	"LeftAmmo"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} shared the ammo. Left ammo: ({2})."
+		"es"		"{1} compartió la munición. Restos de munición: ({2})."
+		"ru"		"{1} поделился патронами. Осталось банок: ({2})."
+	}
+}
