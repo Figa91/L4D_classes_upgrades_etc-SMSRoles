@@ -1,0 +1,31 @@
+//<-- светло-зелёный цвет
+//<-- зелёный цвет
+//<-- белый цвет
+//<-- оранжевый цвет
+"Phrases"
+{
+	"move"
+	{
+		"en"	"You can move the Minigun by Aiming the minigun and Pressing Shift + Mouse Right Click Button Together."
+		"es"	""
+		"ru"	"Вы можете переместить Миниган Наведите на него прицел и Нажмите Shift + Mouse Right Click Кнопки Вместе."
+	}	
+	"stayaway"
+	{
+		"en"	"You are too close to another Мachine Gun, stay away from it to deploy your machine gun %.1f/%.1f."
+		"es"	""
+		"ru"	"Вы слишком близко к другому Минигану, отойдите по дальше чтобы развернуть ваше орудие %.1f/%.1f."
+	}
+	"onlysupport"
+	{
+		"en"	"Green Elf: Available only Support."
+		"es"	"Verde Elf: Disponible sólo Soporte."
+		"ru"	"Зелёный эльф: Доступно только Поддержке."
+	}
+	"before"
+	{
+		"en"	"You have deployed a machine gun before. Go to the minigun and press Shift + right mouse button."
+		"es"	"Usted ha desarrollado una ametralladora antes. Ir a la ametralladora y pulse Mayús + botón derecho del ratón."
+		"ru"	"Вы paзвepнулu nyлeмёт paнee. Пoдoйдuтe к nyлeмётy u нaжмuтe нa Shift + Пpaвaя кнonкa мышu."
+	}
+}
